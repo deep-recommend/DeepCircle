@@ -1,6 +1,6 @@
 # DeepCircle - Personal AI -
 
-- AI of the people, by the people, for the people -
+\- AI of the people, by the people, for the people -
 
 We contribute to the democratization of AI.
 
@@ -31,9 +31,9 @@ Join as soon as possible.
 Click here to join
 https://checkout.stripe.com/c/pay/cs_live_a1oju0CSY0FxUxICI9VUrVjWVjdJcRRTRDWBl7wIHh45Pj1yklue9YPKH0#fidkdWxOYHwnPyd1blppbHNgWjA0TnVXZnVPdj02SzNLcUdvNDBvY0BPYz1cN3dWR3ZuSGJ9dVFfMWtnc29MMUNHZ0MxS11OPDR2ND1dd1F1NH1DZkNsdVJ1YHNdUlV2Q0s9VjExcDVnQVddNTVMSDUwMmR%2FSycpJ3VpbGtuQH11anZgYUxhJz8nPERUYjdwPW98NTZJM3BuPERMJ3gl
 
-# ディープサークル - パーソナル AI -
+# DeepCircle - パーソナル AI -
 
-人民の、人民による、人民のための AI
+\- 人民の、人民による、人民のための AI -
 
 我々は人工知能の民主化に貢献します。
 
@@ -88,4 +88,4 @@ https://checkout.stripe.com/c/pay/cs_live_a1oju0CSY0FxUxICI9VUrVjWVjdJcRRTRDWBl7
 - 個人が AI を作れるようになること
 - 個人が AI を使えるようになること
 
-中長期的には AI アプリを作ろうと思います。
+中長期的にはこれらをアプリ化しようと思います。
