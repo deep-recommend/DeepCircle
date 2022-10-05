@@ -59,5 +59,33 @@ DeepCircle と名付けます。
 今なら 7 日間無料で月額 390 円。
 ご満足いただけない場合、すぐに退会手続きをしていただいても構いません。
 しかし、AI を使う側に
+
 参加はこちら
 https://checkout.stripe.com/c/pay/cs_live_a1oju0CSY0FxUxICI9VUrVjWVjdJcRRTRDWBl7wIHh45Pj1yklue9YPKH0#fidkdWxOYHwnPyd1blppbHNgWjA0TnVXZnVPdj02SzNLcUdvNDBvY0BPYz1cN3dWR3ZuSGJ9dVFfMWtnc29MMUNHZ0MxS11OPDR2
+
+## 仕組み
+
+- Discord グループに参加
+- どんな AI を作るかディスカッション
+- 杉本が実装（案が出ない場合杉本のアイデアを採用）
+- 杉本が参加者にソースコードの限定配布
+- 杉本が参加者にソースコードの限定解説
+
+## メリット
+
+- AI 情報収集の外注
+- AI 実装の時間短縮
+- アイデアの実現
+- コミュニティー
+
+## ゴール
+
+全員が AI 使えるようになって、次元を捻じ曲げられるようにすること。
+
+そのために、
+
+- 個人が AI を知ること
+- 個人が AI を作れるようになること
+- 個人が AI を使えるようになること
+
+中長期的には AI アプリを作ろうと思います。
