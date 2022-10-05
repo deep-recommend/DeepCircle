@@ -73,10 +73,10 @@ https://checkout.stripe.com/c/pay/cs_live_a1oju0CSY0FxUxICI9VUrVjWVjdJcRRTRDWBl7
 
 ## メリット
 
-- AI 情報収集の外注
-- AI 実装の時間短縮
-- アイデアの実現
-- コミュニティー
+- AI 情報収集の外注として
+- AI 実装の時間短縮として
+- アイデアの実現として
+- コミュニティーとして
 
 ## ゴール
 
